@@ -13,7 +13,6 @@
                     <div class="mb-3">
                         <label class="form-label">Email / Username</label>
                         <input type="text" name="email" value="{{ old('email') }}" class="form-control" required>
-                        <div class="form-text">Contoh admin login: username <span class="fw-semibold">admin</span> dan password <span class="fw-semibold">admin123</span>.</div>
                     </div>
                     <div class="mb-3">
                         <label class="form-label">Password</label>
